@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number5Poc", "Number5Poc\Number5Poc.csproj", "{710FD6D0-BA3A-4816-8438-5FF37D1558FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number5Poc.Services", "Number5Poc.Services\Number5Poc.Services.csproj", "{E2CB1AB9-CB2F-41AC-AEB4-37E3C639FCCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number5Poc.Data", "Number5Poc.Data\Number5Poc.Data.csproj", "{D4C857F0-8DFF-4906-941F-40F2B28393C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{710FD6D0-BA3A-4816-8438-5FF37D1558FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710FD6D0-BA3A-4816-8438-5FF37D1558FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710FD6D0-BA3A-4816-8438-5FF37D1558FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710FD6D0-BA3A-4816-8438-5FF37D1558FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2CB1AB9-CB2F-41AC-AEB4-37E3C639FCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2CB1AB9-CB2F-41AC-AEB4-37E3C639FCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2CB1AB9-CB2F-41AC-AEB4-37E3C639FCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2CB1AB9-CB2F-41AC-AEB4-37E3C639FCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4C857F0-8DFF-4906-941F-40F2B28393C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C857F0-8DFF-4906-941F-40F2B28393C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C857F0-8DFF-4906-941F-40F2B28393C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C857F0-8DFF-4906-941F-40F2B28393C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
